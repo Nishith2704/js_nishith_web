@@ -19,5 +19,5 @@ console.log(empty);
    "nishith"=>true;
    */
   let someNumber =33
-  let Stringnumber=String(someNumber)//it has become the string
+  let Stringnumber=String(someNumber)//it has become the stringpu
   console.log(Stringnumber);
