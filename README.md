@@ -1,2 +1,2 @@
 # js_nishith_web
-coderepo for javascript series at chai aur code youtube channel
+coderepo for javascript series at caffeinated code youtube channel
