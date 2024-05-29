@@ -28,4 +28,4 @@ console.log("hello world");
 console.log(myfuntion);
 console.log(typeof(myfuntion)) // for null the datatype would be Object (function is also called funtion object)
 console.log(typeof(myobj));  // object
-console.log(typeof(heroes));// object
+console.log(typeof(heroes));// objectcccccccccccccc
