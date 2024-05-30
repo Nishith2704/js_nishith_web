@@ -57,5 +57,14 @@ console.log(Object.entries(tinderUser));// low use
 console.log(tinderUser.hasOwnProperty('isLoggedIN'));// it is used to check whether for a given object the key is present there or not for not to crash purpose
 
 
+const course ={
+    courseName:"js in hindi",
+    price:"999",
+    courseInstructor:"nishith"
+}
+course.courseInstructor   // this is not much efficient way
+//
+const {}= 
+
 
 // console.log(tinderuser);
