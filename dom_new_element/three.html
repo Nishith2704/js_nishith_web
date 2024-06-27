@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nishith_caffine</title>
+</head>
+<body style="background-color: black;">
+   <script>
+   const div= document.createElement('div')
+   console.log(div);
+   div.className="main" // delcaration of the class
+   div.id=Math.floor(Math.random()*10+1) // for not to appear 0 we use + 1 on it
+   div.setAttribute("title",'title_on_div') 
+   div.style.backgroundColor="green",padding="12px"// here it is not appering in the website due to all this are stored in the memory
+   // to execute in the browser
+   div.innerText="nishith_bro"// it is not a good pratic bcs of the overwrite prob
+   document.createTextNode("Nishith_caffine")
+   
+   </script> 
+</body>
+</html>
